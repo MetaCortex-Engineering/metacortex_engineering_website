@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg833"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="logo_metacortex_engineering_no_stroke.svg">
+  <defs
+     id="defs827" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="441.52937"
+     inkscape:cy="188.57143"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-intersection-paths="false"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="false">
+    <sodipodi:guide
+       position="100.35268,75.028274"
+       orientation="0,1"
+       id="guide1421"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="125.86607,49.892859"
+       orientation="0,1"
+       id="guide1423"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="99.9747,81.831848"
+       orientation="1,0"
+       id="guide1425"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="125.11012,66.145834"
+       orientation="1,0"
+       id="guide1427"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata830">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="matrix(0.27672549,0,0,-0.34777691,28.927864,273.79185)"
+       id="g1531"
+       inkscape:export-xdpi="384.91614"
+       inkscape:export-ydpi="384.91614"
+       inkscape:export-filename="/home/alex/websites/metacortex-engineering.org/public/icons/favicon.ico.png"
+       style="fill:#485fc7;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.99927895;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         inkscape:connector-curvature="0"
+         id="path817"
+         d="m 258.73514,147.56389 c -1.19587,-1.27295 -2.17431,-2.955 -2.17431,-3.73789 0,-0.7829 6.63187,-8.06639 14.7375,-16.18555 l 14.73749,-14.76211 -14.73749,-14.76211 c -8.10563,-8.11916 -14.7375,-15.46572 -14.7375,-16.32568 0,-1.91253 4.09581,-5.91221 6.05431,-5.91221 1.92216,0 36.94569,35.07501 36.94569,37 0,2.01259 -35.06857,37 -37.08583,37 -0.86105,0 -2.54398,-1.0415 -3.73986,-2.31445 z m 21.82569,-17.18555 17.47857,-17.5 -17.47857,-17.5 c -9.61321,-9.625 -17.89796,-17.5 -18.41054,-17.5 -0.51259,0 -1.77465,0.76261 -2.80459,1.69469 -1.80087,1.62976 -1.26796,2.30023 13.90935,17.49981 l 15.78196,15.80512 -15.4325,15.45663 c -15.25762,15.28148 -15.41154,15.47979 -13.5831,17.50019 1.01717,1.12396 2.12197,2.04356 2.45512,2.04356 0.33315,0 8.47109,-7.875 18.0843,-17.5 z m 43.73958,1.73986 c -9.75677,-9.76808 -17.73958,-18.43527 -17.73958,-19.26042 0,-1.99863 35.08145,-36.97944 37.08583,-36.97944 1.91317,0 5.91417,4.09447 5.91417,6.05234 0,0.7829 -6.63187,8.06639 -14.7375,16.18555 l -14.73749,14.76211 14.73749,14.76211 c 8.10563,8.11916 14.7375,15.46571 14.7375,16.32568 0,1.92218 -4.09981,5.91221 -6.07487,5.91221 -0.79528,0 -9.42878,-7.99206 -19.18555,-17.76014 z m 21.79984,13.71658 c 1.82844,-2.0204 1.67452,-2.21871 -13.5831,-17.50019 l -15.4325,-15.45663 15.78196,-15.80512 c 15.17731,-15.19958 15.71022,-15.87005 13.90935,-17.49981 -1.02994,-0.93208 -2.292,-1.69469 -2.80459,-1.69469 -0.51258,0 -8.79733,7.875 -18.41054,17.5 l -17.47857,17.5 17.47857,17.5 c 9.61321,9.625 17.75115,17.5 18.0843,17.5 0.33315,0 1.43795,-0.9196 2.45512,-2.04356 z"
+         style="fill:#485fc7;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.99927895;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1524"
+         d="m 260.72508,146.20107 c -1.01032,-1.05455 -1.19123,-1.54671 -0.93856,-2.55341 0.20698,-0.8247 5.20056,-6.15549 14.74395,-15.7396 7.93702,-7.9709 14.43095,-14.6627 14.43095,-14.87066 0,-0.20797 -6.29259,-6.73734 -13.98354,-14.509721 C 267.28692,90.7553 260.43251,83.547121 259.74585,82.509504 l -1.24848,-1.886577 1.52827,-1.275855 c 0.84055,-0.701721 1.69616,-1.275855 1.90135,-1.275855 0.60157,0 11.67544,10.603398 24.14126,23.115623 l 11.5727,11.61578 -17.38171,17.3524 c -9.55994,9.54382 -17.58441,17.3524 -17.83216,17.3524 -0.24774,0 -1.01364,-0.58785 -1.702,-1.30635 z"
+         style="opacity:1;fill:#485fc7;fill-opacity:1;stroke:none;stroke-width:0.99927895;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1526"
+         d="m 325.75645,130.16741 -17.43301,-17.34001 7.78932,-7.8508 c 10.20598,-10.286526 27.53899,-26.905383 28.06158,-26.905383 0.22606,0 1.06012,0.579966 1.85345,1.288813 1.38499,1.23748 1.41664,1.339418 0.79488,2.559347 -0.35616,0.698794 -7.24574,7.926601 -15.31018,16.061795 l -14.66263,14.791258 13.81753,13.95225 c 7.59964,7.67374 14.37578,14.79584 15.0581,15.8269 l 1.24059,1.87465 -1.4932,1.54059 c -0.82127,0.84733 -1.67101,1.5406 -1.88832,1.5406 -0.21731,0 -8.23996,-7.80301 -17.82811,-17.34001 z"
+         style="opacity:1;fill:#485fc7;fill-opacity:1;stroke:none;stroke-width:0.99927895;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+  </g>
+</svg>
