@@ -57,7 +57,7 @@ github = "MetaCortex-Engineering"
 
 # To add google analytics
 [extra.analytics]
-google = "G-48Q31THL90"
+google = "G-DSF0PFQPX8"
 
 # To add disqus comments
 [extra.commenting]
