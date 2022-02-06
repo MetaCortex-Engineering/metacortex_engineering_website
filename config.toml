@@ -23,13 +23,17 @@ highlight_code = true
 [extra]
 katex.enabled = true
 katex.auto_render = true
+
+mermaid.enabled = true
+
 navbar_items = [
  { code = "en", nav_items = [
   { url = "$BASE_URL/", name = "Home" },
-#   { url = "$BASE_URL/posts", name = "Posts" },
-#   { url = "$BASE_URL/docs", name = "Docs" },
-#   { url = "$BASE_URL/tags", name = "Tags" },
-#   { url = "$BASE_URL/categories", name = "Categories" },
+  { url = "$BASE_URL/posts", name = "Posts" },
+  { url = "$BASE_URL/docs", name = "Docs" },
+  { url = "$BASE_URL/tags", name = "Tags" },
+  { url = "$BASE_URL/categories", name = "Categories" },
+  { url = "$BASE_URL/docs/donate", name = "Donate" },
  ]},
 ]
 
@@ -51,7 +55,7 @@ avatar = "/images/avatar.png"
 # Social links
 [extra.social]
 email = "alex@metacortex.engineer"
-github = "MetaCortex-Engineering"
+github = "MetaCortex-Engineering/metacortex_engineering_website"
 
 
 
@@ -62,3 +66,9 @@ google = "G-DSF0PFQPX8"
 # To add disqus comments
 [extra.commenting]
 disqus = "metacortex-engineering"
+
+[extra.utterances]
+theme = "preferred-color-scheme"
+repo = "https://github.com/MetaCortex-Engineering/metacortex_engineering_website"
+issueterm="title"
+label = "comment2"

@@ -7,6 +7,8 @@ description = "Engineering practices for AI and human ethical collaboration and 
 
 In The Matrix, the corporation Neo works for is called "Metacortex". The roots of this word are **Meta** - "going beyond or higher, transcending," and - **Cortex**, the outer layer of the brain. Thus, Metacortex is "**transcending the boundaries of the brain**," which is what Neo proceeds to do.
 
+# Vision for Metacortex Engineering 
+
 My vision of Metacortex engineering: 
 
 Build intelligent knowledge-based systems using System 1 AI (fast, intuitive reasoning) and System 2 (high-level reasoning) and then present knowledge in a modern VR/AR visualisation. 
