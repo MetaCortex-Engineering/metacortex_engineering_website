@@ -65,7 +65,7 @@ google = "G-DSF0PFQPX8"
 
 # To add disqus comments
 [extra.commenting]
-disqus = "metacortex-engineering"
+# disqus = "metacortex-engineering"
 
 [extra.utterances]
 theme = "preferred-color-scheme"
