@@ -28,6 +28,6 @@ Name Metacortex featuring in the Matrix movie (respective software company), but
 Hannu Rajaniemi, do you want to give your definition? 
 
 
-Join the discussion on TOC and AI https://lnkd.in/e2JCakQZ  in or contribute your ideas to open-source website https://lnkd.in/eMDhkNCy, mind "engineering" bit - the thought or discussion should not be purely abstract, but lead to implementation in a physical world, even if there are gaps in technology. 
+Join the discussion on [TOC and AI](https://lnkd.in/e2JCakQZ) LinkedIn or contribute your ideas to open-source website [https://metacortex.engineering](https://metacortex.engineering), mind "engineering" bit - the thought or discussion should not be purely abstract, but lead to implementation in a physical world, even if there are gaps in technology. 
 
 
